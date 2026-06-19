@@ -1,0 +1,11 @@
+OrderID,Customer,City,Category,Sales,Date
+1,Ravi,Hyderabad,Electronics,20000,2023-01-10
+2,Priya,Chennai,Furniture,15000,2023-01-12
+3,Arun,Bangalore,Electronics,25000,2023-01-15
+4,Sita,Hyderabad,Clothing,8000,2023-01-18
+5,Rahul,Chennai,Electronics,18000,2023-01-20
+6,Anjali,Bangalore,Furniture,22000,2023-01-22
+7,Kiran,Hyderabad,Clothing,9000,2023-01-25
+8,Meena,Chennai,Electronics,30000,2023-01-28
+9,Vijay,Bangalore,Clothing,12000,2023-01-30
+10,Deepa,Hyderabad,Furniture,17000,2023-02-02

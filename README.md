@@ -57,4 +57,4 @@ customer-sales-analysis/
 ## 📬 Contact
 **Goli Krishna Prasad Reddy**
 📧 golikrishnaprasadreddy@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/krishna-prasad-reddy)
+🔗 [LinkedIn](https://www.linkedin.com/in/krishna-prasad-reddy-goli)
